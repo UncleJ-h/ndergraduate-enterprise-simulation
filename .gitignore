@@ -1,0 +1,57 @@
+# 评分工具和结果（不公开）
+grading-tools/
+grading_results/
+student_submissions/
+grade_sheets/
+
+# 学生作业文件（隐私保护）
+submissions/
+*.zip
+
+# 临时文件
+*.tmp
+.DS_Store
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# IDE配置文件
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# 操作系统文件
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# 日志文件
+*.log
+logs/
+
+# 环境配置（可能包含敏感信息）
+.env
+.env.local
+.env.production
+
+# 备份文件
+*.bak
+*.backup
